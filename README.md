@@ -9,4 +9,4 @@ The purpose of the repository is to:
 ## Preview
 A sneak preview of the mobile-responsive page is below.
 
-<img src="https://github.com/smyoung88/Mission-to-Mars/blob/main/Resources/header_news.png" margin="1px"><img src="https://github.com/smyoung88/Mission-to-Mars/blob/main/Resources/feature_facts.png"><img src="https://github.com/smyoung88/Mission-to-Mars/blob/main/Resources/mars_hem.png">
+<img align="center" src="https://github.com/smyoung88/Mission-to-Mars/blob/main/Resources/header_news.png" margin="1px"><img align="center" src="https://github.com/smyoung88/Mission-to-Mars/blob/main/Resources/feature_facts.png"><img align="center" src="https://github.com/smyoung88/Mission-to-Mars/blob/main/Resources/mars_hem.png">
